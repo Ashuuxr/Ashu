@@ -106,16 +106,6 @@ TCV Bazaar	Visit Website	Vercel
 
 ⸻
 
-🐙 GitHub Profile
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ashuuxr&theme=tokyonight&no-frame=true&margin-w=8" alt="GitHub profile trophies"/>
-</div>
-
-Unreliable statistics and streak cards have been removed to avoid displaying incorrect zero values or missing language data.
-
-⸻
-
 🌱 Currently Exploring
 
 * Modern frontend development
@@ -138,9 +128,27 @@ Unreliable statistics and streak cards have been removed to avoid displaying inc
 
 ⸻
 
-📫 Contact & Social Links
+📫 Contact Details & Social Media
 
 <div align="center">
+<a href="https://github.com/ashuuxr">
+<img src="https://img.shields.io/badge/GitHub-Ashuuxr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://instagram.com/ashuuxr">
+<img src="https://img.shields.io/badge/Instagram-ashuuxr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.linkedin.com/in/ashu-prajapati-19b78126a/">
+<img src="https://img.shields.io/badge/LinkedIn-Ashu%20Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://wa.me/917999295580">
+<img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+<a href="https://ashu-prajapati-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.tcvbazaar.com">
+<img src="https://img.shields.io/badge/TCV%20Bazaar-Visit%20Website-6A1B9A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TCV Bazaar"/>
+</a>
 </div>
 
 ⸻
