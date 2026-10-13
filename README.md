@@ -1,11 +1,11 @@
 
-<!-- ==================== ANIMATED HEADER ==================== -->
+<!-- ================= PROFILE HEADER ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090F,50:312E81,100:7C3AED&text=ASHU%20PRAJAPATI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Web%20Development%20%7C%20Creative%20Technology&descSize=13&descAlignY=58&animation=fadeIn" width="100%" alt="Ashu Prajapati"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A1B9A&height=200&section=header&text=Ashu%20Prajapati&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Web%20Development%20%7C%20AI%20Tools%20%7C%20Creative%20Technology&descAlignY=55&descSize=15" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Exploring+AI-Powered+Workflows;Building+Digital+Experiences;Creative+Technology+Enthusiast;Learning+by+Building" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=9B59B6&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Exploring+Web+Development;Learning+and+Building+with+AI;Turning+Ideas+into+Digital+Experiences" alt="Typing SVG" />
 
 </div>
 
@@ -13,154 +13,98 @@
 
 ## 👋 About Me
 
-<img align="right" width="150" src="https://github.com/ashuuxr.png" alt="Ashu Prajapati's profile photo"/>
+Hi, I'm **Ashu Prajapati**, a BCA student at ITM University, Gwalior, interested in web development, artificial intelligence tools, digital creativity, and technology.
 
-Hey, I'm **Ashu Prajapati!**
-
-I'm a BCA student at **ITM University, Gwalior**, interested in AI tools, website development, creative technology, and digital experiences.
-
-I enjoy experimenting with AI-assisted workflows and turning ideas into practical digital projects.
-
-- 🎓 BCA Student at ITM University, Gwalior
-- 🤖 Exploring AI tools and AI-assisted development
-- 🌐 Interested in website development
-- 🎨 Creative design and content creation
-- ⚙️ Exploring automation and productivity workflows
+- 🎓 Pursuing Bachelor of Computer Applications (BCA)
+- 🌐 Interested in website development and modern web technologies
+- 🤖 Exploring AI tools for productivity and creative workflows
+- 🎨 Working with Canva and digital content creation tools
+- 🚀 Learning new technologies and building practical projects
 - 📍 Gwalior, Madhya Pradesh, India
 
-<br clear="right"/>
+---
+
+## 🌐 Web Development Languages & Technologies
+
+These are common languages and technologies used to build websites and web applications.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+</p>
 
 ---
 
-## 🚀 What I'm Exploring
+## 🛠️ Tools & Platforms
 
-- AI-assisted website creation
-- Modern portfolio websites and landing pages
-- Responsive design and interactive interfaces
-- AI-powered productivity workflows
-- Digital branding and visual storytelling
-- Website administration and dashboards
-- Creative automation
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI"/>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Manus_AI-111111?style=for-the-badge&logoColor=white" alt="Manus AI"/>
+  <img src="https://img.shields.io/badge/Kimi_AI-625BFF?style=for-the-badge&logoColor=white" alt="Kimi AI"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+- **AI assistance:** Exploring AI tools for research, coding assistance, and productivity.
+- **Design and creativity:** Canva and AI-assisted creative workflows.
+- **Development:** Basic code editing, website structure, and web technology exploration.
+- **Version control:** Git and GitHub for repositories and project collaboration.
 
 ---
 
-## 🧰 Tools & Technologies
+## 📊 GitHub Overview
 
 <div align="center">
 
-### 🤖 Artificial Intelligence
+<img src="https://github-readme-stats.vercel.app/api?username=ashuuxr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Statistics"/>
 
-<img src="https://img.shields.io/badge/ChatGPT-111827?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-<img src="https://img.shields.io/badge/Claude_AI-111827?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude AI"/>
-<img src="https://img.shields.io/badge/Manus_AI-111827?style=for-the-badge&logoColor=white" alt="Manus AI"/>
-<img src="https://img.shields.io/badge/Kimi_AI-111827?style=for-the-badge&logoColor=white" alt="Kimi AI"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuuxr&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180" alt="Most Used Repository Languages"/>
 
-### 🎨 Design & Creativity
-
-<img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva"/>
-<img src="https://img.shields.io/badge/AI_Image_Generation-111827?style=for-the-badge&logoColor=white" alt="AI image generation"/>
-
-### 🌐 Development & Workflow
-
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://streak-stats.demolab.com?user=ashuuxr&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## 💻 Projects & Interests
-
-- 🌐 **Web Development:** Websites, landing pages, and responsive interfaces.
-- 🤖 **AI Workflows:** Using AI tools to simplify everyday tasks.
-- 🎨 **Creative Technology:** Combining design, content, and technology.
-- ⚙️ **Automation:** Exploring more efficient workflows.
-- 📊 **Dashboards:** Creating useful digital interfaces.
+## 💻 My GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/ashuuxr?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashuuxr&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Milestones
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashuuxr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub statistics"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ashuuxr&theme=tokyonight&hide_border=true" width="85%" alt="GitHub contribution streak"/>
+<img src="https://img.shields.io/badge/Commits%20in%20One%20Year-1%2C250-6A1B9A?style=for-the-badge&logo=github&logoColor=white" alt="1250 commits in one year"/>
+<img src="https://img.shields.io/badge/Issues-625-D4AF37?style=for-the-badge&logo=github&logoColor=black" alt="625 issues"/>
+<img src="https://img.shields.io/badge/Repositories-3-1572B6?style=for-the-badge&logo=github&logoColor=white" alt="3 repositories"/>
 
 </div>
 
 ---
 
-## 💻 Most Used Languages
+## 🎯 Currently Exploring
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuuxr&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="400" alt="Most used programming languages"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=550&lines=Every+Contribution+Counts;Keep+Building+Keep+Learning;One+Commit+at+a+Time" alt="Animated activity message"/>
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/7C3AED/ashuuxr" width="100%" alt="GitHub contribution calendar"/>
-
-<br/><br/>
-
-<a href="https://github.com/ashuuxr">
-<img src="https://img.shields.io/badge/VIEW_ALL_ACTIVITY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity"/>
-</a>
-
-</div>
-
----
-
-## 🐍 Animated Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ashuuxr/Ashu/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Ashuuxr/Ashu/output/github-contribution-grid-snake.gif" width="100%" alt="Animated contribution snake GIF"/>
-
-<br/>
-
-*Every contribution moves the snake forward.*
-
-</div>
-
----
-
-## 🎯 Current Goals
-
-- 📚 Keep learning new technologies
-- 🌐 Build polished digital experiences
-- 🤖 Explore AI-assisted development
-- 🛠️ Create practical projects
-- 💼 Develop a strong project portfolio
-- 🚀 Turn ideas into digital products
+- 🌐 HTML, CSS, JavaScript, and responsive web design
+- ⚡ Modern web development frameworks and tools
+- 🤖 AI-assisted development and productivity workflows
+- 🎨 UI design and creative digital experiences
+- 📚 Improving technical knowledge through practical projects
 
 ---
 
@@ -169,40 +113,17 @@ I enjoy experimenting with AI-assisted workflows and turning ideas into practica
 <div align="center">
 
 <a href="https://github.com/ashuuxr">
-<img src="https://img.shields.io/badge/GitHub-ASHUUXR-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="https://instagram.com/ashuuxr">
-<img src="https://img.shields.io/badge/Instagram-ASHUUXR-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-
 <a href="https://www.linkedin.com/in/ashu-prajapati-19b78126a/">
-<img src="https://img.shields.io/badge/LinkedIn-Ashu_Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="https://wa.me/917999295580">
-<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
-
-<br/><br/>
-
-📞 **Phone:** 799295580
-
-💬 **WhatsApp:** [7999295580](https://wa.me/917999295580)
-
-📸 **Instagram:** [@ashuuxr](https://instagram.com/ashuuxr)
-
-💼 **LinkedIn:** [Ashu Prajapati](https://www.linkedin.com/in/ashu-prajapati-19b78126a/)
-
-<br/><br/>
-
-<a href="https://github.com/ashuuxr?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
-</a>
-
-<br/><br/>
-
-**Learning by exploring. Growing by building.**
 
 </div>
 
@@ -210,6 +131,8 @@ I enjoy experimenting with AI-assisted workflows and turning ideas into practica
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:09090F&height=110&section=footer" width="100%" alt="Footer"/>
+### 💜 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A1B9A&height=100&section=footer" width="100%" alt="Purple footer"/>
 
 </div>
