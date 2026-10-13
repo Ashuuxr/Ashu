@@ -3,25 +3,19 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A1B9A&height=200&section=header&text=Ashu%20Prajapati&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Web%20Development%20%7C%20AI%20Tools%20%7C%20Creative%20Technology&descAlignY=55&descSize=15" width="100%" alt="Profile Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A1B9A&height=200&section=header&text=Ashu%20Prajapati&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Web%20Development%20%7C%20AI%20Tools%20%7C%20Creative%20Technology&descAlignY=55&descSize=15" width="100%" alt="Ashu Prajapati Header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=9B59B6&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Exploring+Web+Development;Learning+and+Building+with+AI;Turning+Ideas+into+Digital+Experiences" alt="Typing Animation"/>
 
-</div>
-
----
-
-<!-- ================= PROFILE PICTURE ================= -->
-
-<div align="center">
-
-<a href="https://github.com/ashuuxr">
-  <img src="https://github.com/ashuuxr.png" width="160" height="160" alt="Ashu Prajapati Profile Picture"/>
-</a>
-
 <br/>
 
-**Ashu Prajapati**
+<a href="https://github.com/ashuuxr">
+<img src="https://github.com/ashuuxr.png" width="160" alt="Ashu Prajapati Profile Picture"/>
+</a>
+
+<h2>Ashu Prajapati</h2>
+
+<p>Web Development | AI Tools | Creative Technology</p>
 
 </div>
 
@@ -29,12 +23,12 @@
 
 ## 👋 About Me
 
-Hi, I'm **Ashu Prajapati**, a BCA student at ITM University, Gwalior, interested in web development, AI tools, digital creativity, and technology.
+Hi, I'm **Ashu Prajapati**, a BCA student at ITM University, Gwalior, interested in web development, artificial intelligence tools, digital creativity, and technology.
 
 - 🎓 Pursuing Bachelor of Computer Applications (BCA)
 - 🌐 Interested in website development and modern web technologies
-- 🤖 Exploring AI tools for productivity and creative workflows
-- 🎨 Interested in design and digital content creation
+- 🤖 Exploring AI tools for development and productivity
+- 🎨 Interested in design, video editing, and digital content creation
 - 🚀 Learning new technologies and building practical projects
 - 📍 Gwalior, Madhya Pradesh, India
 
@@ -99,9 +93,7 @@ Hi, I'm **Ashu Prajapati**, a BCA student at ITM University, Gwalior, interested
 
 ---
 
-## 🌐 Most Used Languages
-
-The badges below represent common web development technologies. They are manually selected and do not represent live language usage percentages.
+## 💻 Most Used Languages
 
 <div align="center">
 
@@ -115,42 +107,62 @@ The badges below represent common web development technologies. They are manuall
 
 </div>
 
+<p align="center">
+<em>Language badges are manually selected. The GitHub language statistics card above is generated dynamically from repository data.</em>
+</p>
+
 ---
 
 ## 🎯 Currently Exploring
 
-- 🌐 Website development and responsive design
-- ⚡ JavaScript and modern web technologies
+- 🌐 Responsive website development
+- ⚡ Modern JavaScript and web technologies
 - 🤖 AI-assisted development and productivity workflows
 - 🎨 UI design and creative digital experiences
-- 📚 Improving technical knowledge through practical projects
+- 📚 Practical projects and continuous learning
 
 ---
 
-## 🤝 Connect With Me
+## 📞 Contact Details
 
 <div align="center">
 
+<p>Feel free to connect with me through any of these platforms.</p>
+
 <a href="https://github.com/ashuuxr">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Ashuuxr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
+
 <a href="https://instagram.com/ashuuxr">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-@ashuuxr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile"/>
 </a>
+
 <a href="https://www.linkedin.com/in/ashu-prajapati-19b78126a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Ashu_Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 </a>
+
 <a href="https://wa.me/917999295580">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+<img src="https://img.shields.io/badge/WhatsApp-Chat_With_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Contact"/>
 </a>
 
 </div>
+
+### Contact Information
+
+- **Name:** Ashu Prajapati
+- **Phone:** 799295580
+- **WhatsApp:** [Chat on WhatsApp](https://wa.me/917999295580)
+- **Instagram:** [@ashuuxr](https://instagram.com/ashuuxr)
+- **LinkedIn:** [Ashu Prajapati](https://www.linkedin.com/in/ashu-prajapati-19b78126a/)
+- **GitHub:** [github.com/ashuuxr](https://github.com/ashuuxr)
 
 ---
 
 <div align="center">
 
 ### 💜 Thanks for visiting my profile!
+
+⭐ If you find my projects interesting, feel free to explore my repositories.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A1B9A&height=100&section=footer" width="100%" alt="Footer"/>
 
