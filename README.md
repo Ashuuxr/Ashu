@@ -3,9 +3,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A1B9A&height=200&section=header&text=Ashu%20Prajapati&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Web%20Development%20%7C%20AI%20Tools%20%7C%20Creative%20Technology&descAlignY=55&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A1B9A&height=200&section=header&text=Ashu%20Prajapati&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Web%20Development%20%7C%20AI%20Tools%20%7C%20Creative%20Technology&descAlignY=55&descSize=15" width="100%" alt="Profile Header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=9B59B6&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Exploring+Web+Development;Learning+and+Building+with+AI;Turning+Ideas+into+Digital+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=9B59B6&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Exploring+Web+Development;Learning+and+Building+with+AI;Turning+Ideas+into+Digital+Experiences" alt="Typing Animation"/>
 
 </div>
 
@@ -13,12 +13,12 @@
 
 ## 👋 About Me
 
-Hi, I'm **Ashu Prajapati**, a BCA student at ITM University, Gwalior, interested in web development, artificial intelligence tools, digital creativity, and technology.
+Hi, I'm **Ashu Prajapati**, a BCA student at ITM University, Gwalior, interested in web development, AI tools, digital creativity, and technology.
 
 - 🎓 Pursuing Bachelor of Computer Applications (BCA)
 - 🌐 Interested in website development and modern web technologies
 - 🤖 Exploring AI tools for productivity and creative workflows
-- 🎨 Working with Canva and digital content creation tools
+- 🎨 Interested in design and digital content creation
 - 🚀 Learning new technologies and building practical projects
 - 📍 Gwalior, Madhya Pradesh, India
 
@@ -26,39 +26,37 @@ Hi, I'm **Ashu Prajapati**, a BCA student at ITM University, Gwalior, interested
 
 ## 🌐 Web Development Languages & Technologies
 
-These are common languages and technologies used to build websites and web applications.
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-</p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+
+</div>
 
 ---
 
 ## 🛠️ Tools & Platforms
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI"/>
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Manus_AI-111111?style=for-the-badge&logoColor=white" alt="Manus AI"/>
-  <img src="https://img.shields.io/badge/Kimi_AI-625BFF?style=for-the-badge&logoColor=white" alt="Kimi AI"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+<div align="center">
 
-- **AI assistance:** Exploring AI tools for research, coding assistance, and productivity.
-- **Design and creativity:** Canva and AI-assisted creative workflows.
-- **Development:** Basic code editing, website structure, and web technology exploration.
-- **Version control:** Git and GitHub for repositories and project collaboration.
+<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI"/>
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Manus_AI-111111?style=for-the-badge&logoColor=white" alt="Manus AI"/>
+<img src="https://img.shields.io/badge/Kimi_AI-625BFF?style=for-the-badge&logoColor=white" alt="Kimi AI"/>
+
+</div>
 
 ---
 
@@ -90,9 +88,28 @@ These are common languages and technologies used to build websites and web appli
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Commits%20in%20One%20Year-1%2C250-6A1B9A?style=for-the-badge&logo=github&logoColor=white" alt="1250 commits in one year"/>
-<img src="https://img.shields.io/badge/Issues-625-D4AF37?style=for-the-badge&logo=github&logoColor=black" alt="625 issues"/>
-<img src="https://img.shields.io/badge/Repositories-3-1572B6?style=for-the-badge&logo=github&logoColor=white" alt="3 repositories"/>
+<img src="https://img.shields.io/badge/Total%20Commits-1%2C280-6A1B9A?style=for-the-badge&logo=github&logoColor=white" alt="1280 commits"/>
+<img src="https://img.shields.io/badge/Total%20Issues-725-D4AF37?style=for-the-badge&logo=github&logoColor=black" alt="725 issues"/>
+<img src="https://img.shields.io/badge/Total%20PRs-690-1572B6?style=for-the-badge&logo=github&logoColor=white" alt="690 pull requests"/>
+<img src="https://img.shields.io/badge/Repositories-3-238636?style=for-the-badge&logo=github&logoColor=white" alt="3 repositories"/>
+
+</div>
+
+---
+
+## 🌐 Most Used Languages
+
+The following badges show common website development technologies. They are manually selected and do not represent measured GitHub language percentages.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 
 </div>
 
@@ -100,8 +117,8 @@ These are common languages and technologies used to build websites and web appli
 
 ## 🎯 Currently Exploring
 
-- 🌐 HTML, CSS, JavaScript, and responsive web design
-- ⚡ Modern web development frameworks and tools
+- 🌐 Website development and responsive design
+- ⚡ JavaScript and modern web technologies
 - 🤖 AI-assisted development and productivity workflows
 - 🎨 UI design and creative digital experiences
 - 📚 Improving technical knowledge through practical projects
@@ -113,16 +130,16 @@ These are common languages and technologies used to build websites and web appli
 <div align="center">
 
 <a href="https://github.com/ashuuxr">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://instagram.com/ashuuxr">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://www.linkedin.com/in/ashu-prajapati-19b78126a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://wa.me/917999295580">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
 </div>
@@ -133,6 +150,6 @@ These are common languages and technologies used to build websites and web appli
 
 ### 💜 Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A1B9A&height=100&section=footer" width="100%" alt="Purple footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A1B9A&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
