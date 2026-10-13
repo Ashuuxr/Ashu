@@ -21,7 +21,7 @@ Hey, I'm **Ashu Prajapati**!
 
 I'm a BCA student at **ITM University, Gwalior**, interested in artificial intelligence, website development, creative technology, and digital experiences.
 
-I enjoy exploring AI-powered tools, experimenting with new technologies, and finding smarter ways to turn ideas into practical digital projects.
+I enjoy experimenting with AI-powered tools, exploring new technologies, and finding smarter ways to turn ideas into practical digital projects.
 
 - 🎓 BCA Student at ITM University, Gwalior
 - 🤖 Exploring AI tools and AI-assisted development
@@ -115,6 +115,10 @@ I'm interested in creating and experimenting with projects involving:
 
 <br/><br/>
 
+<img src="https://raw.githubusercontent.com/ashuuxr/ashuuxr/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution activity" width="100%"/>
+
+<br/><br/>
+
 <a href="https://github.com/ashuuxr">
 <img src="https://img.shields.io/badge/View_All_Contributions-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View all contributions"/>
 </a>
@@ -127,7 +131,11 @@ I'm interested in creating and experimenting with projects involving:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ashuuxr/ashuuxr/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Ashu's GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/ashuuxr/ashuuxr/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Ashu's animated GitHub contribution snake"/>
+
+<br/>
+
+*Every contribution moves the snake forward.*
 
 </div>
 
@@ -149,23 +157,49 @@ I'm interested in creating and experimenting with projects involving:
 <div align="center">
 
 <a href="https://github.com/ashuuxr">
-<img src="https://img.shields.io/badge/GitHub-ashuuxr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GitHub-ASHUUXR-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.instagram.com/ashuuxr/">
+<img src="https://img.shields.io/badge/Instagram-ashuuxr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ashu-prajapati-19b78126a/">
+<img src="https://img.shields.io/badge/LinkedIn-Ashu_Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://wa.me/917999295580">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ashuuxr&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
+📞 **Phone:** 799295580
+
+💬 **WhatsApp:** [7999295580](https://wa.me/917999295580)
+
+📸 **Instagram:** [@ashuuxr](https://instagram.com/ashuuxr)
+
+💼 **LinkedIn:** [Ashu Prajapati](https://www.linkedin.com/in/ashu-prajapati-19b78126a)
 
 <br/><br/>
 
-**“Learning by exploring. Growing by building.”**
+<a href="https://github.com/ashuuxr?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_My_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+<br/><br/>
+
+**Learning by exploring. Growing by building.**
 
 </div>
 
+---
+
 <!-- ==================== FOOTER ==================== -->
 
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:09090F&height=110&section=footer" width="100%" alt="Footer"/>
+
+</div>
