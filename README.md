@@ -64,9 +64,18 @@ Hi, I'm **Ashu Prajapati**, a BCA student at ITM University, Gwalior, interested
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashuuxr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Statistics"/>
+<img src="https://img.shields.io/badge/Total%20Commits-1%2C280-6A1B9A?style=for-the-badge&logo=github&logoColor=white" alt="Total Commits: 1280"/>
+<img src="https://img.shields.io/badge/Total%20Issues-725-D4AF37?style=for-the-badge&logo=github&logoColor=black" alt="Total Issues: 725"/>
+<img src="https://img.shields.io/badge/Total%20PRs-690-1572B6?style=for-the-badge&logo=github&logoColor=white" alt="Total Pull Requests: 690"/>
+<img src="https://img.shields.io/badge/Repositories-3-238636?style=for-the-badge&logo=github&logoColor=white" alt="Repositories: 3"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuuxr&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180" alt="Most Used Repository Languages"/>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ashuuxr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" width="49%" alt="Live GitHub Statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuuxr&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%" alt="Live Repository Languages"/>
 
 <img src="https://streak-stats.demolab.com?user=ashuuxr&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
 
@@ -84,22 +93,9 @@ Hi, I'm **Ashu Prajapati**, a BCA student at ITM University, Gwalior, interested
 
 ---
 
-## 📈 GitHub Milestones
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Total%20Commits-1%2C280-6A1B9A?style=for-the-badge&logo=github&logoColor=white" alt="1280 commits"/>
-<img src="https://img.shields.io/badge/Total%20Issues-725-D4AF37?style=for-the-badge&logo=github&logoColor=black" alt="725 issues"/>
-<img src="https://img.shields.io/badge/Total%20PRs-690-1572B6?style=for-the-badge&logo=github&logoColor=white" alt="690 pull requests"/>
-<img src="https://img.shields.io/badge/Repositories-3-238636?style=for-the-badge&logo=github&logoColor=white" alt="3 repositories"/>
-
-</div>
-
----
-
 ## 🌐 Most Used Languages
 
-The following badges show common website development technologies. They are manually selected and do not represent measured GitHub language percentages.
+The badges below represent common web development technologies. They are manually selected and are not live language usage percentages.
 
 <div align="center">
 
