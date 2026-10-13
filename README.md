@@ -11,6 +11,22 @@
 
 ---
 
+<!-- ================= PROFILE PICTURE ================= -->
+
+<div align="center">
+
+<a href="https://github.com/ashuuxr">
+  <img src="https://github.com/ashuuxr.png" width="160" height="160" alt="Ashu Prajapati Profile Picture"/>
+</a>
+
+<br/>
+
+**Ashu Prajapati**
+
+</div>
+
+---
+
 ## 👋 About Me
 
 Hi, I'm **Ashu Prajapati**, a BCA student at ITM University, Gwalior, interested in web development, AI tools, digital creativity, and technology.
@@ -73,9 +89,9 @@ Hi, I'm **Ashu Prajapati**, a BCA student at ITM University, Gwalior, interested
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashuuxr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" width="49%" alt="Live GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ashuuxr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" width="49%" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuuxr&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%" alt="Live Repository Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuuxr&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%" alt="Most Used Repository Languages"/>
 
 <img src="https://streak-stats.demolab.com?user=ashuuxr&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
 
@@ -83,19 +99,9 @@ Hi, I'm **Ashu Prajapati**, a BCA student at ITM University, Gwalior, interested
 
 ---
 
-## 💻 My GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashuuxr&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
 ## 🌐 Most Used Languages
 
-The badges below represent common web development technologies. They are manually selected and are not live language usage percentages.
+The badges below represent common web development technologies. They are manually selected and do not represent live language usage percentages.
 
 <div align="center">
 
