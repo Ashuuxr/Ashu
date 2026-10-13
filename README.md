@@ -1,109 +1,160 @@
+
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · ashuuxr</sub></p>
-<h1>Ashu Prajapati</h1>
-<h2>Product-minded developer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+# Ashu Prajapati
 
-<p><a href="https://github.com/ashuuxr">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/128513491?u=4763856fde254253caed15efd203ff5443b1ed21&amp;v=4" width="180" alt="Ashu Prajapati GitHub avatar" />
-</td>
-</tr>
-</table>
+### AI-Assisted Developer · Digital Creator
+
+Building practical digital experiences with AI, code, and creative thinking.
+
+<br/>
+
+<a href="https://github.com/ashuuxr">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
+<img src="https://img.shields.io/badge/AI-Claude%20AI-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude AI"/>
+<img src="https://img.shields.io/badge/Focus-Learning%20by%20Building-6C63FF?style=flat-square" alt="Learning by Building"/>
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+---
 
-<table width="100%">
+## About Me
+
+I'm Ashu, a BCA student interested in software development, artificial intelligence, and building useful digital products.
+
+I use **Claude AI as a development assistant** to explore ideas, understand code, troubleshoot issues, and build projects. I'm strengthening my programming fundamentals through practical work and continuous learning.
+
+- Exploring AI-assisted development and automation
+- Building websites and experimenting with digital products
+- Learning programming through hands-on projects
+- Combining creative thinking and digital marketing experience with technology
+
+> My approach: learn the fundamentals, build something useful, and improve it one iteration at a time.
+
+## What I'm Exploring
+
+<table>
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>1 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>1 contributions · 1 active days</p></td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-<p><sub>Building useful software and sharing the work in public.</sub></p>
+### AI-Assisted Development
 
-<h2>Proof at a glance</h2>
+Using Claude AI to understand code, develop features, debug issues, and work through technical challenges.
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ashuuxr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F128513491%3Fu%3D4763856fde254253caed15efd203ff5443b1ed21%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=ashuuxr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F128513491%3Fu%3D4763856fde254253caed15efd203ff5443b1ed21%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Ashu Prajapati GitHub proof metrics" />
-</picture>
-</p>
-
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ashuuxr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F128513491%3Fu%3D4763856fde254253caed15efd203ff5443b1ed21%26v%3D4&repos=ashuuxr%2FAshu&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=ashuuxr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F128513491%3Fu%3D4763856fde254253caed15efd203ff5443b1ed21%26v%3D4&repos=ashuuxr%2FAshu&v=recruiter-projects-1&mode=dark" width="100%" alt="Ashu Prajapati selected projects" />
-</picture>
 </td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/Ashuuxr/Ashu">Ashu</a></h3>
-<p>A selected public project.</p>
-<p><sub>⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/Ashuuxr/Ashu">Read the repository →</a></p>
+<td width="50%" valign="top">
+
+### Web & Digital Products
+
+Exploring website development, user interfaces, dashboards, and practical tools that solve real problems.
+
 </td>
 </tr>
-</table>
-
-<table width="100%">
 <tr>
+<td width="50%" valign="top">
 
+### Automation
+
+Experimenting with ways to simplify repetitive tasks and improve creative and digital workflows.
+
+</td>
+<td width="50%" valign="top">
+
+### Programming Fundamentals
+
+Developing my understanding of Python, C++, and Java through learning, experimentation, and code modifications.
+
+</td>
 </tr>
 </table>
 
-<h2>Technical toolkit</h2>
+## Tech Stack
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=ashuuxr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F128513491%3Fu%3D4763856fde254253caed15efd203ff5443b1ed21%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=ashuuxr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F128513491%3Fu%3D4763856fde254253caed15efd203ff5443b1ed21%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Ashu Prajapati technology stack" />
-</picture>
-</p>
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="100%" align="center"><sub>Language data will appear as public repositories are indexed.</sub></td>
-</tr>
-</table>
+**Languages I'm Learning**
 
-<h2>Consistency signal</h2>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ashuuxr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F128513491%3Fu%3D4763856fde254253caed15efd203ff5443b1ed21%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=ashuuxr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F128513491%3Fu%3D4763856fde254253caed15efd203ff5443b1ed21%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Ashu Prajapati contribution activity" />
-</picture>
-</p>
+**AI & Creative Tools**
 
-<hr />
+<img src="https://img.shields.io/badge/Claude%20AI-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude AI"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva"/>
+<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" alt="Adobe Premiere Pro"/>
+<img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" alt="Adobe After Effects"/>
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/ashuuxr">GitHub</a></td>
-</tr>
-</table>
+</div>
 
-<p align="center"><sub>Ashu Prajapati · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<sub>These represent tools and learning areas, not claims of advanced programming proficiency.</sub>
+
+## Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/ashuuxr/Ashu">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashuuxr&repo=Ashu&theme=github_dark&hide_border=true" width="49%" alt="Ashu repository card"/>
+</a>
+<a href="https://github.com/ashuuxr?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashuuxr&repo=REPLACE_WITH_SECOND_REPO&theme=github_dark&hide_border=true" width="49%" alt="Second project card"/>
+</a>
+
+</div>
+
+I'm using my public repositories to document experiments, projects, and progress as I develop my skills.
+
+**Project focus:** practical web experiences, AI-assisted development, and useful digital tools.
+
+## GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/ashuuxr">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashuuxr&show_icons=true&theme=github_dark&hide_border=true&rank_icon=none" width="100%" alt="GitHub statistics"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/ashuuxr">
+  <img src="https://streak-stats.demolab.com?user=ashuuxr&theme=github-dark-blue&hide_border=true" width="100%" alt="GitHub contribution streak"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/ashuuxr">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashuuxr&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub activity graph"/>
+</a>
+
+</div>
+
+<sub>Stats are generated from available GitHub activity. External cards may occasionally be unavailable.</sub>
+
+## Beyond Code
+
+My background in digital marketing and social media has taught me to think about the people using a product, not just the technology behind it.
+
+I enjoy combining creative ideas, AI tools, and practical problem-solving to build better digital experiences.
+
+## Current Goals
+
+- Strengthen my programming fundamentals.
+- Build and document practical projects.
+- Learn more about AI-assisted software development.
+- Improve my understanding of web development and automation.
+- Share my progress through public repositories.
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/ashuuxr">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+*Learning continuously. Building practically. Improving every day.*
+
+</div>
