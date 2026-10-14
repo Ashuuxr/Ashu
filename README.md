@@ -1,159 +1,179 @@
- <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,50:6A1B9A,100:D4AF37&height=230&section=header&text=Ashu%20Prajapati&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Development%20%7C%20AI%20%7C%20Digital%20Marketing&descAlignY=60&descSize=16" width="100%" alt="Animated Ashu Prajapati Header"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=ASHU%20PRAJAPATI&fontSize=48&fontColor=FFFFFF&animation=fadeIn&color=0:080B18,35:312E81,70:6D28D9,100:0891B2&desc=WEB%20DEVELOPMENT%20%E2%80%A2%20AI%20%E2%80%A2%20DIGITAL%20CREATIVITY&descAlignY=65&descSize=14" width="100%" alt="Animated gradient profile banner" />
+
 <a href="https://github.com/ashuuxr">
-<img src="https://github.com/ashuuxr.png" width="150" alt="Ashu Prajapati"/>
+  <img src="https://github.com/ashuuxr.png" width="132" alt="Ashu Prajapati" />
 </a>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Building+Digital+Experiences;Exploring+AI+and+Web+Development;Learning%2C+Building%2C+Improving" alt="Animated introduction"/>
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=67E8F9&center=true&vCenter=true&width=720&lines=Welcome+to+my+digital+space!;Web+Development+%7C+AI+%7C+Creative+Technology;Building+Ideas+Into+Digital+Experiences;Learn.+Build.+Experiment.+Improve." alt="Animated typing introduction" />
+
+<br />
+
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-059669?style=for-the-badge" alt="Always learning" />
+<img src="https://img.shields.io/badge/FOCUS-WEB%20%2B%20AI-0891B2?style=for-the-badge" alt="Web and AI focus" />
+<img src="https://img.shields.io/badge/CREATIVITY-UNLIMITED-7C3AED?style=for-the-badge" alt="Creative focus" />
+<img src="https://img.shields.io/badge/DEPLOYMENT-VERCEL%20%2B%20GITHUB-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel and GitHub deployment" />
+
 </div>
 
-⸻
+---
 
-👋 About Me
+## About Me
 
-I’m Ashu Prajapati, a BCA student at ITM University, Gwalior, interested in web development, artificial intelligence, digital marketing, and creative technology.
+I’m **Ashu Prajapati**, a BCA student at **ITM University, Gwalior**, interested in web development, artificial intelligence, digital marketing, and creative technology.
 
-I enjoy using modern web technologies and AI-powered tools to develop digital experiences, explore new ideas, and improve technical and creative workflows.
+I enjoy turning ideas into practical digital experiences with modern web technologies, AI-assisted workflows, and creative problem-solving.
 
-* 🎓 Education: BCA, ITM University, Gwalior
-* 💻 Interests: Web Development, AI, Automation
-* 🌐 Projects: Portfolio websites, business websites, and landing pages
-* 🤖 AI Tools: Claude AI, ChatGPT, and other AI-powered tools
-* 📣 Creative Work: Digital marketing, social media campaigns, and promotional content
-* 🚀 Deployment: Vercel and GitHub
-* 📍 Location: Gwalior, Madhya Pradesh, India
-
-⸻
-
-💻 Languages & Technologies
-
-Programming Languages
+| Snapshot | Details |
+|---|---|
+| 🎓 Education | Bachelor of Computer Applications (BCA), ITM University, Gwalior |
+| 💻 Interests | Web Development, AI, Automation, Digital Products |
+| 🌐 Development | Portfolio websites, business websites, landing pages |
+| 🤖 AI Workflow | Claude AI, ChatGPT, and AI-assisted development |
+| 🎨 Creative Work | Digital marketing, social media campaigns, promotional content |
+| 🚀 Deployment | Vercel and GitHub |
+| 📍 Location | Gwalior, Madhya Pradesh, India |
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1300&color=A78BFA&center=true&vCenter=true&width=600&lines=Curious+Mind+%E2%80%A2+Practical+Projects;Technology+%E2%80%A2+Creativity+%E2%80%A2+Continuous+Learning" alt="Animated personal tagline" />
+
 </div>
 
-Web Development
+---
+
+## Technologies & Learning Areas
+
+### Programming Languages
+
+### Frontend & Web Technologies
+
+- Portfolio websites
+- Business websites
+- Landing pages
+
+> These technologies represent my development interests and learning areas. My proficiency varies by technology.
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1400&color=67E8F9&center=true&vCenter=true&width=560&lines=Explore+Technologies.;Build+Practical+Projects.;Improve+With+Every+Iteration." alt="Animated development workflow" />
+
 </div>
 
-These badges represent technologies relevant to my work and learning, not a claim of expert-level proficiency in every technology.
+---
 
-⸻
+## My AI-Assisted Workflow
 
-🤖 AI Tools & Platforms
+- **Development:** Exploring code, making edits, and troubleshooting with AI assistance.
+- **Creative production:** Developing content ideas, promotional copy, and campaign concepts.
+- **Web projects:** Planning website structures and improving digital experiences.
+- **Productivity:** Exploring practical automation and streamlined workflows.
 
-<div align="center">
-</div>
+---
 
-What I Use AI For
+## Selected Projects
 
-* AI-assisted coding and debugging
-* Website planning and content generation
-* Creative brainstorming and promotional copywriting
-* Social media content development
-* Exploring automation and productivity workflows
-
-⸻
-
-🚀 Featured Projects
-
-🌐 Personal Portfolio Website
+### 🌐 Personal Portfolio
 
 A personal website for showcasing projects, skills, and professional information.
 
-* Website development and iterative improvements
-* Vercel deployment workflow
+- Portfolio-focused website development
+- Iterative updates and improvements
+- Vercel deployment workflow
 
-Live Website: ashu-prajapati-portfolio.vercel.app
+**Live site:** [ashuuxr.vercel.app](https://ashuuxr.vercel.app) · **Vercel project:** `ashu-prajapati-portfolio` · **Production deployment:** READY (verified) · **Branch:** `main`  
+**GitHub repository:** [Ashuuxr/ashu-prajapati-portfolio](https://github.com/Ashuuxr/ashu-prajapati-portfolio)
 
-GitHub Repository: Ashuuxr/ashu-prajapati-portfolio
+### 🏢 TCV Bazaar Website
 
-🏢 TCV Bazaar Website
+A digital platform associated with **TCV Bazaar**, an event and exhibition initiative. The public site presents an exhibition/event platform with booking, stall-layout, and contact flows.
 
-A digital platform associated with TCV Bazaar, an event and exhibition initiative.
+- Event and exhibition information
+- Website and landing-page development
+- Business and visitor-facing content
+- Website improvements and deployment
 
-* Event and exhibition information
-* Website and landing-page development
-* Business and visitor-facing content
-* Website improvements and deployment
+**Website:** [www.tcvbazaar.com](https://www.tcvbazaar.com) · **Vercel project reference:** `tcv-bazaar-website-ez`
 
-Live Website: www.tcvbazaar.com
+---
 
-GitHub Repository: Ashuuxr/TCV-Bazaar-Website
+## 📣 Digital Marketing & Creative Work
 
-📣 Digital Marketing & Creative Work
-
-My creative workflows include:
-
-* Social media promotions
-* Instagram Reels concepts
-* Marketing captions and campaign messaging
-* Video overlay text and creative direction
-* Business and event promotions
-* AI-assisted content ideation
-
-⸻
-
-📈 Vercel Projects
+- Social media promotions and campaign messaging
+- Instagram Reels concepts and short-form video content
+- Promotional captions and creative direction
+- Website-related marketing content
+- AI-assisted creative ideation
+- Workflow improvement and automation exploration
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=F472B6&center=true&vCenter=true&width=650&lines=Creative+Ideas+%E2%86%92+Digital+Content;Business+Needs+%E2%86%92+Practical+Web+Experiences" alt="Animated creative workflow" />
+
 </div>
 
-Project	Live Website	Deployment Dashboard
-Personal Portfolio	Visit Website	Vercel
-TCV Bazaar	Visit Website	Vercel
+---
 
-⸻
+## Project Links & Vercel References
 
-🌱 Currently Exploring
+| Project | Website | Vercel project / dashboard |
+|---|---|---|
+| Personal Portfolio | [Visit Website](https://ashuuxr.vercel.app) | `ashu-prajapati-portfolio` · [Open Vercel Dashboard](https://vercel.com/dashboard) |
+| TCV Bazaar | [Visit Website](https://www.tcvbazaar.com) | `tcv-bazaar-website-ez` · [Open Vercel Dashboard](https://vercel.com/dashboard) |
 
-* Modern frontend development
-* AI-assisted development workflows
-* Better website design and user experience
-* Deployment and project management with Vercel
-* Generative AI tools
-* Automation for creative and marketing workflows
-* Practical software development and portfolio building
+---
 
-⸻
+## Areas of Focus
 
-🎯 My Approach
+- Modern frontend development
+- AI-assisted coding and debugging
+- Website architecture and user experience
+- Vercel deployment workflows
+- Generative AI applications
+- Automation for technical and creative work
+- Practical project development
 
-* Build practically: Turn ideas into working projects.
-* Use AI thoughtfully: Apply AI tools to speed up exploration and problem-solving.
-* Keep learning: Improve technical and creative skills through experimentation.
-* Focus on usability: Create digital experiences that serve a clear purpose.
-* Iterate continuously: Review, test, and improve projects over time.
+---
 
-⸻
+## How I Work
 
-📫 Contact Details & Social Media
+- **Build practically:** Turn ideas into working projects.
+- **Use AI thoughtfully:** Apply AI tools to exploration and problem-solving.
+- **Keep learning:** Improve skills through experimentation.
+- **Focus on usability:** Build digital experiences with a clear purpose.
+- **Iterate continuously:** Review and improve projects over time.
+
+---
+
+## Let’s Connect
 
 <div align="center">
+
 <a href="https://github.com/ashuuxr">
-<img src="https://img.shields.io/badge/GitHub-Ashuuxr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-ashuuxr-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ashu Prajapati on GitHub" />
 </a>
-<a href="https://instagram.com/ashuuxr">
-<img src="https://img.shields.io/badge/Instagram-ashuuxr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/ashu-prajapati-19b78126a/">
-<img src="https://img.shields.io/badge/LinkedIn-Ashu%20Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://wa.me/917999295580">
-<img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-<a href="https://ashu-prajapati-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<a href="https://ashuuxr.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit personal portfolio" />
 </a>
 <a href="https://www.tcvbazaar.com">
-<img src="https://img.shields.io/badge/TCV%20Bazaar-Visit%20Website-6A1B9A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TCV Bazaar"/>
+  <img src="https://img.shields.io/badge/TCV%20Bazaar-Visit%20Website-7C3AED?style=for-the-badge" alt="Visit TCV Bazaar website" />
 </a>
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=67E8F9&center=true&vCenter=true&width=600&lines=Let's+Connect+%26+Build+Something+Useful!;Ideas+Become+Better+When+We+Build+Them." alt="Animated contact message" />
+
 </div>
 
-⸻
+---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Learn.+Build.+Experiment.+Improve.;Turning+Ideas+Into+Digital+Experiences." alt="Animated closing message"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:6A1B9A,100:D4AF37&height=120&section=footer" width="100%" alt="Animated footer"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=C4B5FD&center=true&vCenter=true&width=700&lines=Learn.+Build.+Experiment.+Improve.;Thanks+for+visiting+my+profile!+%E2%9C%A8" alt="Animated closing message" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,35:312E81,70:6D28D9,100:0891B2&height=140&section=footer" width="100%" alt="Animated gradient footer" />
+
 </div>
